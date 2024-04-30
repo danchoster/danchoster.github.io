@@ -2,7 +2,11 @@ body {
     background-image: url("");
 
 button {
-    background-color: 
+    background-color: rgb(111, 226, 230);
+    width: 325px;
+    margin: 80px;
+    font-size: 5px;
+}
 
 
 
