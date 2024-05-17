@@ -10,12 +10,12 @@ button {
     font-size:350 px;
 }
 
-<style>
-.center {
-    text-align: center
-}
-</style>
 
+img {
+    border-radius: 8px;
+    width: 300px;
+    height: 300px;
+}
 
 
 
