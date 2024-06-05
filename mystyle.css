@@ -17,6 +17,10 @@ img {
     height: 300px;
 }
 
+body {
+    background:linear-gradient(-45deg, #ff9a9e, #ffad0c4, #fad0c4, #ff9a9e);
+    background-size: 400% 400%;
+
 
 
 
